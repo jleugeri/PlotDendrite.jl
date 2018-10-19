@@ -10,7 +10,7 @@ structure = (name="A", SC=[RGB(0.3, 0.3, 0.3),RGB(0.3, 0.7, 0.3),"black","pink"]
 ])
 
 kwargs = (h_frac=0.5, style=[])
-res = plotDendrite(structure, canvas=SVG("test.svg", 15cm,10cm))
+res = plotDendrite(structure, canvas=SVG("test.svg", 15cm,10cm), caption="test")
 
 @testset "plotting" begin
     @test res.height == 4

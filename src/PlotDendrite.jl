@@ -76,9 +76,9 @@ function _draw_branch(root; fill_connectors=false, connector_style= fill_connect
     return drawing, total_length, total_branches, y0, y0+height
 end
 
-function plotDendrite(args...;canvas=nothing, kwargs...)
+function plotDendrite(args...;canvas=nothing, caption="", caption_options=[stroke("white"), fill("black"), fontsize(8)], kwargs...)
     drawing, total_length, total_branches, _,_ = _draw_branch(args...; kwargs...)
-    composed_drawing = compose(context(), drawing)
+    composed_drawing = compose(context(), drawing, (context(), text(1,1,caption,hright,vbottom), caption_options...))
     if canvas != nothing
         draw(canvas, composed_drawing)
     end

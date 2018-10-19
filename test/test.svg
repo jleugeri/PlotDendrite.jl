@@ -8,54 +8,61 @@
      stroke-width="0.3"
      font-size="3.88"
 >
-<g stroke="#000000" id="img-ce938e4b-1">
-  <g fill="rgba(255,192,203,1)" id="img-ce938e4b-2">
+<g font-size="8" fill="rgba(0,0,0,1)" stroke="#FFFFFF" id="img-342da48d-1">
+  <g transform="translate(150,100)">
+    <g class="primitive">
+      <text text-anchor="end">test</text>
+    </g>
+  </g>
+</g>
+<g stroke="#000000" id="img-342da48d-2">
+  <g fill="rgba(255,192,203,1)" id="img-342da48d-3">
     <g transform="translate(141.15,48.78)">
       <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
     </g>
   </g>
-  <g fill="rgba(0,0,0,1)" id="img-ce938e4b-3">
+  <g fill="rgba(0,0,0,1)" id="img-342da48d-4">
     <g transform="translate(126.45,48.78)">
       <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
     </g>
   </g>
-  <g fill="rgba(76,178,76,1)" id="img-ce938e4b-4">
+  <g fill="rgba(76,178,76,1)" id="img-342da48d-5">
     <g transform="translate(111.75,48.78)">
       <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
     </g>
   </g>
-  <g fill="rgba(76,76,76,1)" id="img-ce938e4b-5">
+  <g fill="rgba(76,76,76,1)" id="img-342da48d-6">
     <g transform="translate(97.05,48.78)">
       <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
     </g>
   </g>
-  <g stroke="#000000" id="img-ce938e4b-6">
-    <g fill="rgba(0,0,0,1)" id="img-ce938e4b-7">
+  <g stroke="#000000" id="img-342da48d-7">
+    <g fill="rgba(0,0,0,1)" id="img-342da48d-8">
       <g transform="translate(67.65,76.34)">
         <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
       </g>
     </g>
-    <g fill="rgba(0,0,0,1)" id="img-ce938e4b-8">
+    <g fill="rgba(0,0,0,1)" id="img-342da48d-9">
       <g transform="translate(52.95,76.34)">
         <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
       </g>
     </g>
-    <g stroke="#000000" id="img-ce938e4b-9">
-      <g fill="rgba(255,165,0,1)" id="img-ce938e4b-10">
+    <g stroke="#000000" id="img-342da48d-10">
+      <g fill="rgba(255,165,0,1)" id="img-342da48d-11">
         <g transform="translate(23.55,86.75)">
           <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
         </g>
       </g>
-      <g fill="rgba(165,42,42,1)" id="img-ce938e4b-11">
+      <g fill="rgba(165,42,42,1)" id="img-342da48d-12">
         <g transform="translate(16.2,92.88)">
           <circle cx="0" cy="0" r="6.12" class="primitive"/>
         </g>
-        <g stroke-width="1" stroke="#000000" id="img-ce938e4b-12">
+        <g stroke-width="1" stroke="#000000" id="img-342da48d-13">
         </g>
         <g transform="translate(23.55,92.88)">
           <path d="M-7.35,-6.12 L 7.35 -6.12 7.35 6.12 -7.35 6.12 z" class="primitive"/>
         </g>
-        <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-ce938e4b-13">
+        <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-342da48d-14">
           <g transform="translate(23.55,92.88)">
             <g class="primitive">
               <text text-anchor="middle" dy="0.35em">C2</text>
@@ -64,22 +71,22 @@
         </g>
       </g>
     </g>
-    <g stroke="#000000" id="img-ce938e4b-14">
-      <g fill="rgba(255,165,0,1)" id="img-ce938e4b-15">
+    <g stroke="#000000" id="img-342da48d-15">
+      <g fill="rgba(255,165,0,1)" id="img-342da48d-16">
         <g transform="translate(23.55,62.25)">
           <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
         </g>
       </g>
-      <g fill="rgba(165,42,42,1)" id="img-ce938e4b-16">
+      <g fill="rgba(165,42,42,1)" id="img-342da48d-17">
         <g transform="translate(16.2,68.38)">
           <circle cx="0" cy="0" r="6.12" class="primitive"/>
         </g>
-        <g stroke-width="1" stroke="#000000" id="img-ce938e4b-17">
+        <g stroke-width="1" stroke="#000000" id="img-342da48d-18">
         </g>
         <g transform="translate(23.55,68.38)">
           <path d="M-7.35,-6.12 L 7.35 -6.12 7.35 6.12 -7.35 6.12 z" class="primitive"/>
         </g>
-        <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-ce938e4b-18">
+        <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-342da48d-19">
           <g transform="translate(23.55,68.38)">
             <g class="primitive">
               <text text-anchor="middle" dy="0.35em">C1</text>
@@ -88,8 +95,8 @@
         </g>
       </g>
     </g>
-    <g fill="rgba(255,255,0,1)" id="img-ce938e4b-19">
-      <g stroke-width="1" stroke="#000000" id="img-ce938e4b-20">
+    <g fill="rgba(255,255,0,1)" id="img-342da48d-20">
+      <g stroke-width="1" stroke="#000000" id="img-342da48d-21">
         <g transform="translate(38.25,86.65)">
           <path fill="none" d="M-7.35,6.23 C2.94,6.23 -2.94,-6.23 7.35,-6.23" class="primitive"/>
         </g>
@@ -100,7 +107,7 @@
       <g transform="translate(60.3,79.4)">
         <path d="M-14.7,-3.06 L 14.7 -3.06 14.7 3.06 -14.7 3.06 z" class="primitive"/>
       </g>
-      <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-ce938e4b-21">
+      <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-342da48d-22">
         <g transform="translate(60.3,79.4)">
           <g class="primitive">
             <text text-anchor="middle" dy="0.35em">B3</text>
@@ -109,27 +116,27 @@
       </g>
     </g>
   </g>
-  <g stroke="#000000" id="img-ce938e4b-22">
-    <g fill="rgba(0,0,0,1)" id="img-ce938e4b-23">
+  <g stroke="#000000" id="img-342da48d-23">
+    <g fill="rgba(0,0,0,1)" id="img-342da48d-24">
       <g transform="translate(67.65,37.24)">
         <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
       </g>
     </g>
-    <g fill="rgba(0,0,0,1)" id="img-ce938e4b-24">
+    <g fill="rgba(0,0,0,1)" id="img-342da48d-25">
       <g transform="translate(52.95,37.24)">
         <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
       </g>
     </g>
-    <g fill="rgba(0,0,255,1)" id="img-ce938e4b-25">
+    <g fill="rgba(0,0,255,1)" id="img-342da48d-26">
       <g transform="translate(45.6,41.83)">
         <circle cx="0" cy="0" r="4.59" class="primitive"/>
       </g>
-      <g stroke-width="1" stroke="#000000" id="img-ce938e4b-26">
+      <g stroke-width="1" stroke="#000000" id="img-342da48d-27">
       </g>
       <g transform="translate(60.3,41.83)">
         <path d="M-14.7,-4.59 L 14.7 -4.59 14.7 4.59 -14.7 4.59 z" class="primitive"/>
       </g>
-      <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-ce938e4b-27">
+      <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-342da48d-28">
         <g transform="translate(60.3,41.83)">
           <g class="primitive">
             <text text-anchor="middle" dy="0.35em">B2</text>
@@ -138,27 +145,27 @@
       </g>
     </g>
   </g>
-  <g stroke="#000000" id="img-ce938e4b-28">
-    <g fill="rgba(0,0,0,1)" id="img-ce938e4b-29">
+  <g stroke="#000000" id="img-342da48d-29">
+    <g fill="rgba(0,0,0,1)" id="img-342da48d-30">
       <g transform="translate(67.65,11.21)">
         <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
       </g>
     </g>
-    <g fill="rgba(0,0,0,1)" id="img-ce938e4b-30">
+    <g fill="rgba(0,0,0,1)" id="img-342da48d-31">
       <g transform="translate(52.95,11.21)">
         <path d="M-5.88,0 A5.88,5.88 0 0 1 5.88,-0" class="primitive"/>
       </g>
     </g>
-    <g fill="rgba(0,0,255,1)" id="img-ce938e4b-31">
+    <g fill="rgba(0,0,255,1)" id="img-342da48d-32">
       <g transform="translate(45.6,17.33)">
         <circle cx="0" cy="0" r="6.12" class="primitive"/>
       </g>
-      <g stroke-width="1" stroke="#000000" id="img-ce938e4b-32">
+      <g stroke-width="1" stroke="#000000" id="img-342da48d-33">
       </g>
       <g transform="translate(60.3,17.33)">
         <path d="M-14.7,-6.12 L 14.7 -6.12 14.7 6.12 -14.7 6.12 z" class="primitive"/>
       </g>
-      <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-ce938e4b-33">
+      <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-342da48d-34">
         <g transform="translate(60.3,17.33)">
           <g class="primitive">
             <text text-anchor="middle" dy="0.35em">B1</text>
@@ -167,8 +174,8 @@
       </g>
     </g>
   </g>
-  <g fill="rgba(255,0,0,1)" id="img-ce938e4b-34">
-    <g stroke-width="1" stroke="#000000" id="img-ce938e4b-35">
+  <g fill="rgba(255,0,0,1)" id="img-342da48d-35">
+    <g stroke-width="1" stroke="#000000" id="img-342da48d-36">
       <g transform="translate(82.35,68.68)">
         <path fill="none" d="M-7.35,10.72 C2.94,10.72 -2.94,-10.72 7.35,-10.72" class="primitive"/>
       </g>
@@ -182,7 +189,7 @@
     <g transform="translate(119.1,54.9)">
       <path d="M-29.4,-6.12 L 29.4 -6.12 29.4 6.12 -29.4 6.12 z" class="primitive"/>
     </g>
-    <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-ce938e4b-36">
+    <g stroke-width="0.1" font-size="12" fill="rgba(255,255,255,1)" stroke="#000000" id="img-342da48d-37">
       <g transform="translate(119.1,54.9)">
         <g class="primitive">
           <text text-anchor="middle" dy="0.35em">A</text>
